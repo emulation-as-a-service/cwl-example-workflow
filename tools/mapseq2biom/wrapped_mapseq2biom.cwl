@@ -63,9 +63,9 @@ requirements:
   - entryname: config.json
     entry: |-
       {
-          "environmentId": "ae026c83-4036-429d-9c1e-ceb9c9104347",
+          "environmentId": "ccdbf258-169e-4a1d-93c4-ae7bb752f84d",
           "initialWorkDirRequirements": [],
-          "eaasUrl": "https://a19b53c8-2990-43ef-8ccd-6353c370d056.test.emulation.cloud/emil",
+          "eaasUrl": "https://c6564661-6070-42cc-b6e0-ad1277a1ca7e.fr.bw-cloud-instance.org/emil",
           "environmentVariables": {
               "HELLO": "/usr/bin:/var/",
               "PATH": "/tools:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin"

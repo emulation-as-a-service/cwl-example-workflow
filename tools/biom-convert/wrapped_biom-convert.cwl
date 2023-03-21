@@ -72,9 +72,9 @@ requirements:
   - entryname: config.json
     entry: |-
       {
-          "environmentId": "186b7744-b170-440c-adeb-85065576fadc",
+          "environmentId": "53bcfd27-23f2-498c-8e5e-dcad95dd35e9",
           "initialWorkDirRequirements": [],
-          "eaasUrl": "https://a19b53c8-2990-43ef-8ccd-6353c370d056.test.emulation.cloud/emil"
+          "eaasUrl": "https://c6564661-6070-42cc-b6e0-ad1277a1ca7e.fr.bw-cloud-instance.org/emil"
       }
 hints: []
 cwlVersion: v1.0
