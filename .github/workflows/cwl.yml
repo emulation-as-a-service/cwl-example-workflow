@@ -9,5 +9,5 @@ jobs:
       - uses: actions/checkout@v3
       - uses: emulation-as-a-service/cwl-action@main
         with:
-          workflowPath: wrapped_workflow_example_workflow.cwl
+          workflowPath: example_workflow.cwl
           jobFilePath: workflow-test.yml
