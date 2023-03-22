@@ -10,5 +10,5 @@ jobs:
       - uses: emulation-as-a-service/cwl-rewriter@main
         with:
           workflowPath: example_workflow.cwl
-          eaasBackendUrl: https://a19b53c8-2990-43ef-8ccd-6353c370d056.test.emulation.cloud/emil
-          runtimeId: ae66ff3a-a3ba-4151-ad2a-735503d1f3f0
+          eaasBackendUrl: https://c6564661-6070-42cc-b6e0-ad1277a1ca7e.fr.bw-cloud-instance.org/emil
+          runtimeId: 2f49bdda-3f9d-47c6-84f3-611646b86828
