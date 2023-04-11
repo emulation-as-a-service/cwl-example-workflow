@@ -12,6 +12,7 @@ requirements:
   EnvVarRequirement: 
     envDef:
       HELLO: /usr/bin:/var/
+      TEST_ENV: "ENV_VAR_TEST"
 
 inputs:
   map_otu_table: File
