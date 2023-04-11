@@ -10,6 +10,9 @@ jobs:
           workflowPath: example_workflow.cwl
           eaasBackendUrl: https://c6564661-6070-42cc-b6e0-ad1277a1ca7e.fr.bw-cloud-instance.org/emil
           runtimeId: 2f49bdda-3f9d-47c6-84f3-611646b86828
+          repoUrl: ${{ github.server_url }}/${{ github.repository }}
+          branch: "rewritten"
+
       - uses: emulation-as-a-service/cwl-action@main
         with:
           workflowPath: wrapped_workflow_example_workflow.cwl

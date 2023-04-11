@@ -19,6 +19,8 @@ requirements:
   envDef:
   - envName: HELLO
     envValue: /usr/bin:/var/
+  - envName: TEST_ENV
+    envValue: "ENV_VAR_TEST"
 - class: InlineJavascriptRequirement
 - class: MultipleInputFeatureRequirement
 - class: ScatterFeatureRequirement
