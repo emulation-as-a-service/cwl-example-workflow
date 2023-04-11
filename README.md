@@ -6,6 +6,6 @@ The contained workflow example_workflow.cwl can be executed, for the rewritten w
 the rewriter can be used to properly rewrite the workflow on your system: [CWL Rewriter](https://github.com/emulation-as-a-service/cwl-rewriter)
 
 ## Actions:
-* Execution
-* Rewriter
+* Execution of the Workflow
+* Rewriter + Execution of the rewritten Workflow
 
